@@ -6,6 +6,8 @@
 
     <properties>
         <java.version>11</java.version>
+            <maven.compiler.source>1.8</maven.compiler.source>
+            <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
     <dependencies>
@@ -36,10 +38,11 @@
         <module>FluentInterface</module>
 
         <module>Visitor</module>
+        <module>Flyweight</module>
 
-	<module>Strategy</module>
-	<module>Bridge</module>
-	<module>Prototype</module>
+        <module>Strategy</module>
+        <module>Bridge</module>
+        <module>Prototype</module>
 
         <module>Command</module>
         

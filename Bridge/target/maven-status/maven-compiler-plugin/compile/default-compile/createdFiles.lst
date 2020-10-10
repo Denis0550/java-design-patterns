@@ -1,7 +1,0 @@
-bridge/example/TextMessage.class
-bridge/example/EmailMessage.class
-bridge/Bridge.class
-bridge/example/Message.class
-bridge/example/MessageSender.class
-bridge/example/EmailMessageSender.class
-bridge/example/TextMessageSender.class
