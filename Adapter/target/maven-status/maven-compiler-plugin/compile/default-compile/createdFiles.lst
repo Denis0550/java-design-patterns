@@ -1,0 +1,8 @@
+adapter/example/Vlc.class
+adapter/example/Mp3.class
+adapter/example/MediaPlayer.class
+adapter/example/MediaPackage.class
+adapter/example/MediaPlayable.class
+adapter/example/FormatAdapter.class
+adapter/example/Mp4.class
+Adapter.class

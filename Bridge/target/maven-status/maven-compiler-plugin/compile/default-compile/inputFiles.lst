@@ -1,0 +1,7 @@
+/home/adminas/workspace/java-design-patterns/Bridge/src/main/java/bridge/example/MessageSender.java
+/home/adminas/workspace/java-design-patterns/Bridge/src/main/java/bridge/example/EmailMessageSender.java
+/home/adminas/workspace/java-design-patterns/Bridge/src/main/java/bridge/example/TextMessageSender.java
+/home/adminas/workspace/java-design-patterns/Bridge/src/main/java/bridge/Bridge.java
+/home/adminas/workspace/java-design-patterns/Bridge/src/main/java/bridge/example/EmailMessage.java
+/home/adminas/workspace/java-design-patterns/Bridge/src/main/java/bridge/example/TextMessage.java
+/home/adminas/workspace/java-design-patterns/Bridge/src/main/java/bridge/example/Message.java
