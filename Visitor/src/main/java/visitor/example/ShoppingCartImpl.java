@@ -1,6 +1,6 @@
-package visitor.example;
+package observer.example;
 
-import visitor.exercise.Animal;
+import observer.exercise.Animal;
 
 public class ShoppingCartImpl implements ShoppingCart {
 

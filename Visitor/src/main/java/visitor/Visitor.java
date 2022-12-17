@@ -1,12 +1,11 @@
-package visitor;
+package observer;
 
 import java.util.ArrayList;
-import visitor.example.Car;
-import visitor.example.Computer;
-import visitor.example.Item;
-import visitor.example.ShoppingCart;
-import visitor.example.ShoppingCartImpl;
-import visitor.exercise.Animal;
+import observer.example.Car;
+import observer.example.Computer;
+import observer.example.Item;
+import observer.example.ShoppingCart;
+import observer.example.ShoppingCartImpl;
 
 public class Visitor {
 

@@ -1,4 +1,4 @@
-package visitor.example;
+package observer.example;
 
 public interface Item {
 

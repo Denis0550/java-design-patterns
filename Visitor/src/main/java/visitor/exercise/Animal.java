@@ -1,7 +1,7 @@
-package visitor.exercise;
+package observer.exercise;
 
-import visitor.example.Item;
-import visitor.example.ShoppingCart;
+import observer.example.Item;
+import observer.example.ShoppingCart;
 
 public class Animal implements Item {
 
